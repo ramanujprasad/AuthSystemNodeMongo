@@ -44,4 +44,7 @@ npm start
 
 ## How cookie looks like?
 
-![Design Image](https://github.com/ramanujprasad/AuthSystemNodeMongo/blob/master/images/cookie_after_login.PNG)
+![Cookie design](https://github.com/ramanujprasad/AuthSystemNodeMongo/blob/master/images/cookie_after_login.png)
+
+![Register design](https://github.com/ramanujprasad/AuthSystemNodeMongo/blob/master/images/register_page.png)
+
