@@ -18,7 +18,7 @@ C:\data\db
 
 Step 4: 
 cd to C:\Program Files (x86)\MongoDB\Server\3.0\bin>
-enter command mongod
+run the command 'mongod'
 by default, mongodb server will start at port 27017
 
 Once server started, navigate to http://localhost:27017/, you will get below message in browser
